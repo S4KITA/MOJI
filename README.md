@@ -10,22 +10,16 @@ Moji(모두의 지하철) 앱은 이러한 점을 보완하여 다양한 편의�
 ## 서비스 스크린샷
 ![moji](https://user-images.githubusercontent.com/77232856/148357810-82812182-1839-453e-b140-7a02485f48d1.png)
 
-## 사용한 라이브러리
-### Foundation
-[Appcompat](https://developer.android.com/topic/libraries/support-library/packages#v7-appcompat)   
-
-### Architcture
-[Lifecycles](https://developer.android.com/topic/libraries/architecture/lifecycle)   
-[ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)  
+## Tech Spec
 
 ### UI
-[LinearLayout](https://developer.android.com/reference/android/widget/LinearLayout)   
-[RelativeLayout](https://developer.android.com/reference/kotlin/android/widget/RelativeLayout)  
-[WebView](https://developer.android.com/guide/webapps/webview)  
-[MaterialDesign](https://material.io/design)  
-[ScrollView](https://developer.android.com/reference/androidx/core/view/ScrollingView)  
-[WebView](https://developer.android.com/guide/webapps/webview)  
-[Subsampling Scale Image View](https://github.com/davemorrissey/subsampling-scale-image-view)  
+- [LinearLayout](https://developer.android.com/reference/android/widget/LinearLayout)   
+- [RelativeLayout](https://developer.android.com/reference/kotlin/android/widget/RelativeLayout)  
+- [WebView](https://developer.android.com/guide/webapps/webview)  
+- [MaterialDesign](https://material.io/design)
+- [ScrollView](https://developer.android.com/reference/androidx/core/view/ScrollingView)
+- [WebView](https://developer.android.com/guide/webapps/webview)
+- [Subsampling Scale Image View](https://github.com/davemorrissey/subsampling-scale-image-view)
 
 ## 수상내역
 * [역 편의정보 공공데이터 활용 아이디어 기획 및 서비스 개발 공모전 최우수상](http://www.kric.go.kr/jsp/board/portal/sub07/ntc/mainNoticeDetail.jsp?p_id=415979&pageNo=6&q_name=1&q_value=)
